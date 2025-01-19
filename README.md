@@ -2,6 +2,8 @@
 
 This repository contains a **Multimodal Retrieval-Augmented Generation (RAG) Pipeline** that integrates **images**, **audio**, and **text** for advanced multimodal querying and response generation. The pipeline uses **CLIP** for image embeddings, **Whisper** for audio transcription, **SentenceTransformer** for text embeddings, **ChromaDB** for vector storage, and **Qwen-VL** for multimodal text generation.
 
+![Implementing Multi-modal RAG Systems](./Implementing_Multi-modal_RAG_Systems_2.png)
+
 ---
 
 ## Features
