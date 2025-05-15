@@ -12,7 +12,7 @@ Qwen2.5-VL-3B-Instruct is a powerful vision-language model developed by the Qwen
 
 ## Requirements
 ### Hardware
-- **GPU**: NVIDIA GPU with at least 6GB VRAM (e.g., NVIDIA GTX 1660 or higher).
+- **GPU**: NVIDIA GPU with at least 6GB VRAM (e.g., NVIDIA RTX 4050 or higher).
 - **RAM**: 16GB or more.
 
 ### Software
